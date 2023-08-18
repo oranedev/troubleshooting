@@ -47,4 +47,4 @@ The illumination around the I/O ports on a Mac Pro (Late 2013) doesn’t turn on
     - A user can't connect to the internet on their Windows laptop. You go to "Network and Sharing Center" to diagnose and troubleshoot the network issue, which turns out to be a misconfigured IP setting.
 
 Resources
-[apple suuport docs](https://support.apple.com/en-ca/guide/mac-help/mh29198/mac)
+**[apple support docs](https://support.apple.com/en-ca/guide/mac-help/mh29198/mac)
