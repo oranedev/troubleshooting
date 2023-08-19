@@ -2,7 +2,7 @@
 
 ### **Mac Troubleshooting Examples:**
 
-1. **Hardware:** 
+**Hardware:** 
     - A Macbook doesn't power on. You perform an SMC (System Management Controller) reset by pressing and holding down the power button for 10 seconds, then release the button and try to turn the laptop on again.
     - How to know if you need to reset the SMC:
 These symptoms might mean that an SMC reset is necessary:
@@ -25,7 +25,7 @@ The illumination around the I/O ports on a Mac Pro (Late 2013) doesn’t turn on
   
 
 
-### **PC Troubleshooting Examples:**
+### **PC Troubleshooting **
 
 1. **Hardware:** 
     - A desktop PC doesn't power up. You check the power source, test with a different power cable, and also ensure the power supply unit (PSU) of the computer isn't faulty.
