@@ -23,14 +23,7 @@ Your Mac performs unusually slowly, even though its CPU isn’t under an abnorma
 A Mac that supports target display mode doesn’t switch into or out of target display mode as expected, or it switches into or out of target display mode at unexpected times.
 The illumination around the I/O ports on a Mac Pro (Late 2013) doesn’t turn on when you move the computer.
   
-2. **Software:** 
-    - A user is unable to update macOS due to insufficient storage. You clean up cache, logs, and old backups, and recommend using an external hard drive for large files or moving to cloud storage.
 
-3. **Hardware:** 
-    - A Macbook's trackpad isn't responding. You boot the Mac into Safe Mode to see if the issue persists, helping to determine if it's a hardware or software issue.
-  
-4. **Software:** 
-    - A user's Mac consistently crashes when using a specific application. You identify that the app hasn't been updated in a while, so you ensure the application and the macOS are updated to the latest versions.
 
 ### **PC Troubleshooting Examples:**
 
